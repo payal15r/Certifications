@@ -8,7 +8,7 @@
 - [AWS Fundamentals Specialization (Amazon Web Services)](https://coursera.org/share/4c0c3b1c975998f8b6f98ce90b8bba63)
 - [Migrating to the AWS Cloud](https://coursera.org/share/2512a90ed2f3d3df201bdd1dddd69edb)
 - [AWS Cloud Technical Essentials](https://coursera.org/share/ae2204bf0d49b7d988e241912818fcd1)
-- [Effective Team Communication](./Images/Effective Team Communication.png.jpg)
+- [Effective Team Communication](Images/Effective Team Communication.png.jpg)
 - [Leadercamp on-demand: Agile and Agility]()
 
   
