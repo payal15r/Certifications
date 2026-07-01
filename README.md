@@ -5,7 +5,7 @@
 **I am committed to continuous learning and have completed multiple technical certifications to strengthen my expertise. You can find the complete list of my certifications and related projects on my GitHub profile. https://github.com/payal15r**
 
 # Certifications
-- [Effective Team Communication](Images/effective-team-communication.jpg)
+- [Effective Team Communication Certificate](Images/effective-team-communication.jpg)
 - [Leadercamp On-Demand – Agile and Agility Certificate](Images/Leadercamp%20on-demand-%20Agile%20and%20Agility.jpg)
 - [AWS Fundamentals Specialization (Amazon Web Services)](https://coursera.org/share/4c0c3b1c975998f8b6f98ce90b8bba63)
 - [Migrating to the AWS Cloud](https://coursera.org/share/2512a90ed2f3d3df201bdd1dddd69edb)
