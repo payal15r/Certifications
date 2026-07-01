@@ -5,18 +5,11 @@
 **I am committed to continuous learning and have completed multiple technical certifications to strengthen my expertise. You can find the complete list of my certifications and related projects on my GitHub profile. https://github.com/payal15r**
 
 # Certifications
-- AWS Fundamentals Specialization (Amazon Web Services)
-- Migrating to the AWS Cloud
-- AWS Cloud Technical Essentials
-- Effective Team Communication
-- Leadercamp on-demand: Agile and Agility
+- [AWS Fundamentals Specialization (Amazon Web Services)](https://coursera.org/share/4c0c3b1c975998f8b6f98ce90b8bba63)
+- [Migrating to the AWS Cloud](https://coursera.org/share/2512a90ed2f3d3df201bdd1dddd69edb)
+- [AWS Cloud Technical Essentials](https://coursera.org/share/ae2204bf0d49b7d988e241912818fcd1)
+- [Effective Team Communication](./Images/Effective Team Communication.png.jpg)
+- [Leadercamp on-demand: Agile and Agility]()
 
   
-# 📸Screenshots
-# Job Seeker
- <img src="./Images/1.png" width="200"> <img src="./Images/2.png" width="200">  <img src="./Images/3.png" width="200"> 
- <img src="./Images/4.png" width="200"> <img src="./Images/5.png" width="200">  <img src="./Images/6.png" width="200"> 
- <img src="./Images/7.png" width="200"> <img src="./Images/8.png" width="200">  <img src="./Images/9.png" width="200"> 
- <img src="./Images/10.png" width="200"> <img src="./Images/11.png" width="200">  <img src="./Images/12.png" width="200"> 
- <img src="./Images/14.png" width="200">
 
